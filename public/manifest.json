@@ -1,0 +1,8 @@
+{
+  "short_name": "Test Batchrequest",
+  "name": "Test Batchrequest",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
